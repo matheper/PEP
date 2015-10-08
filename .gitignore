@@ -1,0 +1,11 @@
+*.aux
+*.lof
+*.log
+*.lot
+*.lol
+*.toc
+*.dvi
+*.bbl
+*.blg
+*.out
+*~
